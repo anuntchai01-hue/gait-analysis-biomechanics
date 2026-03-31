@@ -7,7 +7,7 @@ This project analyses gait biomechanics data collected using GRAIL
 - Knee-braced  
 - Ankle-braced
 
-[## Dataset
+## Dataset
 **Source:** [Enhanced Gait Biomechanics Dataset — Kaggle](https://www.kaggle.com/datasets/YOUR_DATASET_LINK)
 
 - 10 subjects × 3 conditions × 10 replications
