@@ -6,7 +6,7 @@ This project analyses gait biomechanics data collected using GRAIL
 - Unbraced
 - Knee-braced
 - Ankle-braced
-- 
+
 ## Objective
 To investigate how knee and ankle bracing alter gait biomechanics
 and to classify gait conditions using machine learning.
