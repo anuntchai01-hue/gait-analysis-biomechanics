@@ -6,6 +6,10 @@ This project analyses gait biomechanics data collected using GRAIL
 - Unbraced
 - Knee-braced
 - Ankle-braced
+- 
+## Objective
+To investigate how knee and ankle bracing alter gait biomechanics
+and to classify gait conditions using machine learning.
 
 ## Dataset
 **Source:** [Enhanced Gait Biomechanics Dataset — Kaggle](https://www.kaggle.com/datasets/anitarostami/enhanced-gait-biomechanics-dataset)
@@ -24,6 +28,19 @@ This project analyses gait biomechanics data collected using GRAIL
 - Visualisation — boxplots, line plots, correlation heatmap
 - Machine Learning classification (Gradient Boosting — 92.5% accuracy)
 - Statistical Analysis — Repeated Measures ANOVA
+
+  ## Analysis
+- Exploratory Data Analysis (EDA)
+- Visualisation — boxplots, line plots, correlation heatmap
+- Machine Learning classification (Gradient Boosting — 92.5% accuracy)
+- Statistical Analysis — Repeated Measures ANOVA
+
+## Skills Demonstrated
+- Biomechanics interpretation
+- Statistical analysis (Repeated Measures ANOVA)
+- Machine learning classification
+- Data visualization
+- Feature importance analysis
 
 ## Results
 | Model | Accuracy |
