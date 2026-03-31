@@ -1,14 +1,14 @@
 # Gait Analysis for Enhanced Gait Biomechanics Dataset
 
 ## Overview
-This project analyses gait biomechanics data collected using GRAIL 
+This project analyses gait biomechanics data collected using GRAIL
 (Gait Real-time Analysis Interactive Lab) across three conditions:
 - Unbraced
-- Knee-braced  
+- Knee-braced
 - Ankle-braced
 
 ## Dataset
-**Source:** [Enhanced Gait Biomechanics Dataset — Kaggle](https://www.kaggle.com/datasets/YOUR_DATASET_LINK)
+**Source:** [Enhanced Gait Biomechanics Dataset — Kaggle](https://www.kaggle.com/datasets/anitarostami/enhanced-gait-biomechanics-dataset)
 
 - 10 subjects × 3 conditions × 10 replications
 - 2 legs (left, right) × 3 joints (ankle, knee, hip)
@@ -16,15 +16,8 @@ This project analyses gait biomechanics data collected using GRAIL
 - Variables: joint angle (°), normalised velocity, normalised acceleration
 - Full gait cycle recorded (0–100%)
 
-- 10 subjects × 3 conditions × 10 replications
-- 2 legs (left, right) × 3 joints (ankle, knee, hip)
-- 178,200 total observations
-- Variables: joint angle (°), normalised velocity, normalised acceleration
-- Full gait cycle recorded (0–100%)
-
-> **Note:** Download the dataset from Kaggle and rename it to 
+> **Note:** Download the dataset from Kaggle and rename it to
 > `Gait_Biomechanics_Dataset.csv` before running the notebook.
-](https://www.kaggle.com/datasets/anitarostami/enhanced-gait-biomechanics-dataset)
 
 ## Analysis
 - Exploratory Data Analysis (EDA)
